@@ -1,6 +1,5 @@
-# O idioma do JavaScript
+# A linguagem JavaScript
 
-Aqui, aprendemos JavaScript, começando do zero e avançamos para conceitos avançados, como o OOP.
+Aqui aprenderemos JavaScript, começando do zero e adentrando em conceitos avançados, como POO.
 
-Nós nos concentramos na própria linguagem aqui, com o mínimo de notas específicas do meio ambiente.
-
+Nós nos concentraremos na própria linguagem, com o mínimo de observações específicas sobre o ambiente de desenvolvimento.
